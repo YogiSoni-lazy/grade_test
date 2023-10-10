@@ -1,0 +1,5 @@
+rht-labs-core
+rht-labs-dle
+openshift-client
+flake8-black
+pytest
